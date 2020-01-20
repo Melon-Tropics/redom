@@ -31,6 +31,8 @@ Another great benefit is, that you can use just **pure JavaScript**, so no compl
 
 ## Supporting RE:DOM
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Melon-Tropics/redom.svg)](https://greenkeeper.io/)
+
 RE:DOM is an MIT-licensed open source project with its ongoing development made possible entirely by the support of these awesome [backers](https://github.com/redom/redom/blob/dev/BACKERS.md).
 
 **If you'd like to join them, please consider:**
